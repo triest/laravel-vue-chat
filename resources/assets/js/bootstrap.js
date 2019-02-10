@@ -37,8 +37,9 @@ window.axios.defaults.headers.common = {
  */
 
 import Echo from "laravel-echo"
-
+/*
 window.Echo = new Echo({
     broadcaster: 'pusher',
     key: '68cff25802da8182ecc1'
 });
+*/
